@@ -6,11 +6,11 @@
 
 # Introduction
 
-This repo contain a PDF parsing toolkit for preparing text corpus using to transfer PDF to Markdown. Based on [PDF Parser ToolKits](https://github.com/Acemap/pdf_parser), gathering most-use PDF OCR tools for academic papers, and inspired by `grobid_tei_xml`, an open-sourced PyPI package, we develop sciparser 1.0 for text corpus pre-processing, in recent works like [K2](https://github.com/davendw49/k2) and [GeoGalactica](https://github.com/davendw49/geogalactica), we use this tool and upgrade grobid backend solution to pre-process the text corpus. And the online demo is publicly available.
+This repo contains a PDF parsing toolkit for preparing text corpus to transfer PDF to Markdown. Based on [PDF Parser ToolKits](https://github.com/Acemap/pdf_parser), gathering most-use PDF OCR tools for academic papers, and inspired by `grobid_tei_xml`, an open-sourced PyPI package, we develop sciparser 1.0 for text corpus pre-processing, in recent works like [K2](https://github.com/davendw49/k2) and [GeoGalactica](https://github.com/davendw49/geogalactica), we use this tool and upgrade grobid backend solution to pre-process the text corpus. Moreover, the online demo is publicly available.
 
 - Try [DEMO](https://sciparser.acemap.info/)
 
-In this repo and demo, we only share the secondary processing solution on Grobid. In the near future, we will share the multiple-backend combinition solution on PDF parsing.
+In this repo and demo, we only share the secondary processing solution on Grobid. In the near future, we will share the multiple-backend combination solution on PDF parsing.
 
 # Requirements
 
