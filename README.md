@@ -1,5 +1,5 @@
 <div style="text-align:center">
-<img src="https://big-cheng.com/img/sciparser.png" alt="sciparser-logo" width="200"/>
+<img src="https://www.cdeng.net/img/sciparser.png" alt="sciparser-logo" width="200"/>
 <h2>PDF parsing toolkit for preparing text corpus</h2>
 </div>
 <a href='https://sciparser.acemap.info/'><img src='https://img.shields.io/badge/Sciparser-Demo-C71585'></a> <a href='https://github.com/davendw49/sciparser'><img src='https://img.shields.io/badge/Github-Code-4169E1'></img></a>
